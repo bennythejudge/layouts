@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">Type your message here...</string>
+    <string name="send">Send</string>
+    <string name="on">Hot</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+</resources>
